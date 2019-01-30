@@ -1,0 +1,105 @@
+body {
+  background-color: #EBEBEB ;
+  font-family: 'Nunito Sans', sans-serif;
+  color: #7D7D7D;
+  font-size: 11px ;
+  font-height: bold ;
+
+}
+
+h1 {
+  color : #7D7D7D ;
+  font-family: 'Karla';
+  font-size: 30px;
+}
+
+h2 {
+  font-family: 'Karla';
+  color : #218BE6;
+  font-family: 'Karla', sans-serif;
+  font-size: 20px
+}
+
+h3 {
+  font-size: 15px;
+  color: #7D7D7D;
+}
+
+p {
+  font-size: 13px;
+  color: #7D7D7D;
+}
+
+
+
+a {
+  color: #7D7D7D;
+  text-decoration: none;
+  font-size: 10px;
+}
+
+
+a:hover {
+  text-decoration: underline;
+  font-weight: bold;
+  font-height: bold;
+  color: red ;
+}
+
+.image {
+  padding-right: : 4px;
+  padding-left: 4px
+  margin-bottom: 20px;
+  border-radius: 7px;
+}
+
+.center {
+    text-align: center;
+}
+
+#profilepicture {
+  border-radius: 400px;
+  border: 3px solid #cccccc;
+}
+
+.container {
+  width: 500px;   /* This sets the width */
+  margin: 30px auto; /* This automatically sets left/right margins */
+}
+
+.card {
+    background: white;
+    padding: 20px;
+    margin-bottom: 20px;
+    border-radius: 4px;
+    box-shadow: 0px 1px 2px 0px rgba(0, 0, 0, 0.2);
+}
+
+.btn-red {
+  background-color: #DD5555;
+  padding: 10px;
+    padding-top: 10px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+  margin: 10px;
+  color: #FBFCFF;
+}
+
+.fab {
+  font-size: 30px;
+}
+
+.list-inline li {
+
+  display : inline-block;
+  padding: 20px;
+}
+
+.btn-red:hover {
+  color : #FBFCFF;
+  text-decoration: underline;
+  font-weight: bold;
+  font-height: bold;
+  ;
+}
