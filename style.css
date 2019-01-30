@@ -4,7 +4,7 @@ body {
   color: #7D7D7D;
   font-size: 11px ;
   font-height: bold ;
-  background-image: url("/images/parc.png");
+  background-image: url("images/parc.png");
 }
 
 h1 {
